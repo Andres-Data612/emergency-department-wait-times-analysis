@@ -30,7 +30,11 @@ Multi-page report structure
 Performance percentages were weighted by total attendances to ensure metrics accurately reflect patient experience and operational load, avoiding distortion from simple averages.
 
 📷 Dashboard Preview
+![Overview](images/Overview.png)
 
+![Detailed](images/Detailed.png)
+
+![Trends](images/Trends.png)
 
 
 💡 Key Insight
