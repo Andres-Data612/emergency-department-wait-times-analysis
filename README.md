@@ -1,9 +1,9 @@
 # Emergency Department Wait Times Analysis
-Project Overview
+📌 Project Overview
 
 This project analyzes emergency department (A&E) wait-time performance using public NHS Scotland data. The objective was to assess operational pressure, patient flow trends, and compliance with national 4-hour performance targets.
 
-Tools Used
+🛠 Tools Used
 
 MySQL — data cleaning and validation
 
@@ -11,7 +11,7 @@ SQL — date conversion, integrity checks, transformation
 
 Power BI — data modeling, DAX calculations, interactive dashboard
 
-Dashboard Features
+📊 Dashboard Features
 
 Executive-level KPI overview
 
@@ -25,6 +25,14 @@ Custom tooltip pages
 
 Multi-page report structure
 
-Analytical Approach
+📐 Analytical Approach
 
 Performance percentages were weighted by total attendances to ensure metrics accurately reflect patient experience and operational load, avoiding distortion from simple averages.
+
+📷 Dashboard Preview
+
+(Add screenshots here)
+
+💡 Key Insight
+
+Weighted KPIs provide a more realistic representation of system pressure, especially during high-volume periods.
