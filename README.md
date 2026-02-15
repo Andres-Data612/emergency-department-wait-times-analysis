@@ -5,27 +5,27 @@ This project analyzes weekly emergency department (A&E) wait-time performance us
 
 🛠 Tools Used
 
-MySQL – data cleaning and validation
+-MySQL – data cleaning and validation
 
-SQL – date conversion and data integrity checks
+-SQL – date conversion and data integrity checks
 
-Power BI – data modeling, DAX calculations, interactive dashboard
+-Power BI – data modeling, DAX calculations, interactive dashboard
 
 📊 Dashboard Features
 
-Executive KPI overview
+-Executive KPI overview
 
-Weighted % wait-time metrics (4, 8, 12 hours)
+-Weighted % wait-time metrics (4, 8, 12 hours)
 
-Attendance trend analysis
+-Attendance trend analysis
 
-Location performance comparison
+-Location performance comparison
 
-Drillthrough navigation
+-Drillthrough navigation
 
-Tooltip pages
+-Tooltip pages
 
-Bookmark-based view switching
+-Bookmark-based view switching
 
 📐 Analytical Approach
 
@@ -41,4 +41,4 @@ Performance percentages were weighted by total attendances to ensure metrics acc
 
 💡 Key Insight
 
-Weighted KPIs provide a more realistic representation of system pressure, especially during high-volume periods.
+Weighted wait-time metrics provide a more accurate representation of patient experience, especially during high-volume periods.
