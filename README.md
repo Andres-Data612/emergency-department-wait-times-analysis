@@ -31,7 +31,7 @@ Performance percentages were weighted by total attendances to ensure metrics acc
 
 📷 Dashboard Preview
 
-(Add screenshots here)
+...
 
 💡 Key Insight
 
