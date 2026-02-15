@@ -31,6 +31,11 @@ This project analyzes weekly emergency department (A&E) wait-time performance us
 
 Performance percentages were weighted by total attendances to ensure metrics accurately reflect patient experience and operational load, avoiding distortion from simple averages.
 
+💡 Key Insight
+
+Weighted wait-time metrics provide a more accurate representation of patient experience, especially during high-volume periods.
+
+
 📷 Dashboard Preview
 ![Overview](images/Overview.png)
 
@@ -38,7 +43,3 @@ Performance percentages were weighted by total attendances to ensure metrics acc
 
 ![Trends](images/Trends.png)
 
-
-💡 Key Insight
-
-Weighted wait-time metrics provide a more accurate representation of patient experience, especially during high-volume periods.
