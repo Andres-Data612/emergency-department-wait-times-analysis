@@ -1,4 +1,4 @@
-# Emergency Department Wait Times Analysis
+## Emergency Department Wait Times Analysis
 📌 Project Overview
 
 This project analyzes weekly Emergency Department (A&E) wait-time performance using public NHS Scotland data.
