@@ -1,40 +1,47 @@
 # Emergency Department Wait Times Analysis
 📌 Project Overview
 
-This project analyzes weekly emergency department (A&E) wait-time performance using public NHS Scotland data. The goal was to evaluate performance against national wait-time standards and assess how patient volume impacts operational outcomes.
+This project analyzes weekly Emergency Department (A&E) wait-time performance using public NHS Scotland data.
+
+The objective was to evaluate performance against national wait-time standards while assessing how patient volume influences operational outcomes across treatment locations.
+
+This project demonstrates data cleaning, analytical reasoning, KPI design, and interactive dashboard development.
 
 🛠 Tools Used
 
--MySQL – data cleaning and validation
+-MySQL – Data cleaning, validation, and transformation
 
--SQL – date conversion and data integrity checks
+-SQL – Date conversion, null checks, duplicate detection, and integrity validation
 
--Power BI – data modeling, DAX calculations, interactive dashboard
+-Power BI – Data modeling, DAX calculations, and interactive dashboard design
+
+-DAX – Creation of weighted performance KPIs
 
 📊 Dashboard Features
 
--Executive KPI overview
+-Executive KPI overview page
 
--Weighted % wait-time metrics (4, 8, 12 hours)
+-Weighted wait-time performance metrics (4, 8, and 12-hour thresholds)
 
--Attendance trend analysis
+-Attendance trend analysis (yearly & monthly)
 
--Location performance comparison
+-Location-level performance comparisons
 
--Drillthrough navigation
+-Drillthrough pages for detailed site-level insights
 
--Tooltip pages
+-Custom tooltip pages
 
--Bookmark-based view switching
+-Bookmark-based view switching for interactive exploration
 
 📐 Analytical Approach
 
-Performance percentages were weighted by total attendances to ensure metrics accurately reflect patient experience and operational load, avoiding distortion from simple averages.
+Performance percentages were weighted by total attendances to ensure metrics accurately reflect true patient experience and operational load.
+
+This avoids misleading conclusions that can occur when using simple averages across sites with vastly different patient volumes.
 
 💡 Key Insight
 
-Weighted wait-time metrics provide a more accurate representation of patient experience, especially during high-volume periods.
-
+Weighted wait-time metrics provide a more accurate and operationally meaningful representation of Emergency Department performance, particularly during high-volume periods.
 
 📷 Dashboard Preview
 ![Overview](images/Overview.png)
